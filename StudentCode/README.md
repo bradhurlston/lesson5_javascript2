@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 23rd, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Bradley Hurlston)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Use java mathematical equations to create a working tax calculator with multiple tax brackets.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://bradhurlston.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Always use the var keyword when describing variables.
+2. If/else statements execute one action if the condition is true and a different action if it's false.
+3. Using java mathematic operations to solve an equation with code.
